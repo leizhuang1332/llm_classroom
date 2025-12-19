@@ -1,0 +1,12 @@
+# Python 项目示例
+__pycache__/
+*.pyc
+venv/
+.env
+logs/
+
+# 通用示例
+.DS_Store  # macOS 隐藏文件
+node_modules/  # Node.js 依赖
+*.log
+.idea/  # IDE 配置
